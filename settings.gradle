@@ -1,0 +1,2 @@
+rootProject.name='SwipeNTabs'
+include ':app'
